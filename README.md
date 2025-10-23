@@ -14,7 +14,7 @@ Full-stack Web Application using Angular &amp; SpringBoot (RestFull API).
   * Spring Security (Authentication & JWT)
   * Maven
 
-### Screenshots
+<!-- ### Screenshots
 Login           |
 :---------------------:|
 ![screenshoot](screenshots/login.PNG)|
@@ -23,7 +23,7 @@ Home           |
 Customer Managment           |
 ![screenshoot](screenshots/crud_managment.PNG)|
 Add/Update Customer           |
-![screenshoot](screenshots/save_customer.PNG)|
+![screenshoot](screenshots/save_customer.PNG)| --!>
 
 ### Contributing 💡
 If you want to contribute to one of this projects and make it better with new ideas or fixing issues, your pull request is very welcomed.
